@@ -1,6 +1,6 @@
 <?php
 $INCOMING_WEBHOOK_URL = "https://hooks.slack.com/services/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";
-$USERNAME = "Y U NO GOOGLE GOD DAMNIT?";
+$USERNAME = "Let Me Slack That For You";
 $ICON = ":troll:";
 $text = $_POST['text'];
 $channel_name = $_POST['channel_name'];
