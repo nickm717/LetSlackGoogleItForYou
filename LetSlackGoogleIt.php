@@ -1,5 +1,4 @@
 <?php
-// replace with your url you got here : https://my.slack.com/services/new/incoming-webhook
 $INCOMING_WEBHOOK_URL = "https://hooks.slack.com/services/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";
 $USERNAME = "Y U NO GOOGLE GOD DAMNIT?";
 $ICON = ":troll:";
